@@ -12,7 +12,7 @@ This project fetches intraday stock data using the Alpha Vantage API and perform
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/intraday-stock-data-analysis.git
+   git clone https://github.com/Tanzir11/Trading_analysis_using_python-.git
    
 2. change into the project directory
   cd intraday-stock-data-analysis
